@@ -12,12 +12,12 @@ The three main resources created are:
 
 ## Architecture 
 
-Add github link for png file
+Excalidraw Architecture png file: 
 ![alt text](sixt-street-take-home-study.png)
 
 
-The excalidraw file:  
-
+Excalidraw file access via:
+https://excalidraw.com/#json=l3jIW3mzYq8iVCR1QFvzq,QauUVChYXzcWNHjgDavkCg
 
 
 ### How it works 
