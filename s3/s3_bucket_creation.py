@@ -21,7 +21,7 @@ class s3lambda(Stack):
         bucket = s3.Bucket(self,'SixthS3',
             block_public_access=s3.BlockPublicAccess.BLOCK_ALL,
             removal_policy=RemovalPolicy.DESTROY,
-            # auto_delete_objects=True,
+            auto_delete_objects=True, 
         )
 
         #Bucket policy
